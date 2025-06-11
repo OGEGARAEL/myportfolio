@@ -1,7 +1,7 @@
 # Portfolio
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm RAEL MADARAKA OGEGA
 
-🎯 **Data Analyst / Data Scientist** | 📊 Turning data into insights | 🧠 Lifelong learner
+🎯 **Data Analyst / Scientist in Training | 📊 Turning data into insights | 🧠 Lifelong learner
 
 ---
 
