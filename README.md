@@ -6,9 +6,9 @@
 
 ---
 
-## 🧩 About Me
+##  About Me
 ## 👋 Hi, I'm Rael Madaraka — but just call me **Madaraka**! 
-Living in Nairobi, Kenya. 
+📍 Based in Nairobi, Kenya
 
 A naturally inquisitive data enthusiast with a passion for personal knowledge management, collecting data, and uncovering insights that could bloom into new ideas. My journey into the world of data began with an inherent love for capturing, organizing, distilling, and expressing information and finding meaningful patterns within it. This fascination drove me to master Excel, SQL, spreadsheets and, Python. I specialize in transforming complex data into actionable insights to support decision-making. I'm passionate about storytelling with data, solving business problems, and continuously learning new technologies.
 
