@@ -1,1 +1,1 @@
-# raelmadaraka.github.io
+# raelmadaraka.github.com
