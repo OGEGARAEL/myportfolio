@@ -20,8 +20,8 @@ A naturally inquisitive data enthusiast with a passion for personal knowledge ma
 - **Data Cleaning & Processing**: SQL, Python (Pandas, Numpy)
 - **Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
 - **Machine Learning**: scikit-learn, Classification and Clustering
-- **Databases**: MySQL, PostgreSQL, 
-- **Tools**: Excel, Git, Jupyter Notebooks, VS Code
+- **Databases**: MySQL, PostgreSQL 
+- **Tools**: Excel, Git, Jupyter Notebooks, VS Code, Github, Chatgpt
 - **Business Intelligence and Reporting**: Power BI, Tableau, Looker Studio
 - **Tools**:Data Engineerimg Basics- ETL,Data Warehousing Concepts
 - **Data Governance and Protection**:Data Privacy(GDPR,CCPA), DLP, Risk Assessment
