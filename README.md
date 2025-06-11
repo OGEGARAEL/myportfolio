@@ -17,11 +17,14 @@ A naturally inquisitive data enthusiast with a passion for personal knowledge ma
 ## 🧰 Skills
 
 - **Languages**: Python, SQL, R
-- **Data Manipulation**: Pandas, NumPy, dplyr, tidyr
+- **Data Cleaning & Processing**: SQL, Python (Pandas, Numpy)
 - **Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
-- **Machine Learning**: scikit-learn, XGBoost, TensorFlow (if applicable)
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Machine Learning**: scikit-learn, Classification and Clustering
+- **Databases**: MySQL, PostgreSQL, 
 - **Tools**: Excel, Git, Jupyter Notebooks, VS Code
+- **Business Intelligence and Reporting**: Power BI, Tableau, Looker Studio
+- **Tools**:Data Engineerimg Basics- ETL,Data Warehousing Concepts
+- **Data Governance and Protection**:Data Privacy(GDPR,CCPA), DLP, Risk Assessment
 
 ---
 
