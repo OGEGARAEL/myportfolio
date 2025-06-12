@@ -64,7 +64,7 @@ https://github.com/OGEGARAEL/R-intern
 
 Used R to analyze and visualize global HIV trends, focusing on countries contributing to 75% of the global burden. Filtered and grouped data by WHO region, performed data cleaning and transformation, and created insightful visualizations using ggplot2 to show HIV case trends over time. This project supports better understanding of regional disparities in HIV burden and informs targeted public health strategies.
 
-> 🗂 *More projects available on my [GitHub Repositories](https://ogegarael.github.io/portfolio.oi/)*
+> 🗂 *More projects available on my [GitHub Repositories](https://github.com/OGEGARAEL)*
 
 ---
 
