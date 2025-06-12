@@ -49,16 +49,14 @@ Developed and deployed an efficient farmer-exporter linkage system as part of my
 This project was born out of my firsthand experience as a farmer, aimed at empowering local hass avocado farmers by streamlining access to export markets, reducing exploitation by middlemen, and ultimately improving livelihoods through a more direct, transparent, and community-driven linkage system. It also contributes to food security and country development by promoting fair trade and sustainable farming practices.
 
 
-###  Furniture Website 
-https://github.com/OGEGARAEL/FURNITURE-WEBSITE  
+### Furniture Website https://github.com/OGEGARAEL/FURNITURE-WEBSITE  
 
 **Tech Stack**: html, css, javascript
 
 Developed a furniture website using web development tools such as HTML, CSS, and JavaScript to provide a digital platform for furniture sellers and entrepreneurs.
 This website solves key challenges faced by furniture businesses, including limited visibility, lack of online presence, and difficulties reaching a wider customer base. By offering an easy-to-navigate, visually appealing online storefront, the platform helped sellers showcase their products, attract new customers, and increase sales without the high costs of a physical showroom.
 
-### 🦠 HIV Data Trend Analysis Using R   
-https://github.com/OGEGARAEL/R-intern  
+### 🦠 HIV Data Trend Analysis Using R  https://github.com/OGEGARAEL/R-intern  
 
 **Tech Stack**: Python, Pandas, Seaborn 
 
