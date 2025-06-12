@@ -1,4 +1,4 @@
-Welcome to my Portfolio
+**Welcome to my Portfolio**  
 
 # Rael Madaraka Ogega
 
@@ -7,7 +7,8 @@ Welcome to my Portfolio
 ---
 
 ### WHO AM I ? 
-## 👋 Hi, I'm Rael Madaraka Ogega — but just call me **Madaraka**! 
+## Hi, I'm Rael Madaraka Ogega — but just call me **Madaraka**!  
+
 📍 Based in Nairobi, Kenya
 
 I’m a naturally inquisitive data enthusiast with a passion for personal knowledge management, data collection, and uncovering insights that spark innovation.
@@ -40,37 +41,39 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 
 ## 📁 Projects
 
-### Farmer-Exporter Linkage System https://github.com/OGEGARAEL/farmer_exporter_linkage_system
---**Tech Stack**:html, sql, javascript, php 
+### Farmer-Exporter Linkage System https://github.com/OGEGARAEL/farmer_exporter_linkage_system  
+
+**Tech Stack**:html, sql, javascript, php  
 
 Developed and deployed an efficient farmer-exporter linkage system as part of my university research project. The system optimized organizational workflows and enhanced project management capabilities within agricultural value chains.
 This project was born out of my firsthand experience as a farmer, aimed at empowering local hass avocado farmers by streamlining access to export markets, reducing exploitation by middlemen, and ultimately improving livelihoods through a more direct, transparent, and community-driven linkage system. It also contributes to food security and country development by promoting fair trade and sustainable farming practices.
 
 
 ###  Furniture Website 
-https://github.com/OGEGARAEL/FURNITURE-WEBSITE
+https://github.com/OGEGARAEL/FURNITURE-WEBSITE  
 
 **Tech Stack**: html, css, javascript
 
 Developed a furniture website using web development tools such as HTML, CSS, and JavaScript to provide a digital platform for furniture sellers and entrepreneurs.
 This website solves key challenges faced by furniture businesses, including limited visibility, lack of online presence, and difficulties reaching a wider customer base. By offering an easy-to-navigate, visually appealing online storefront, the platform helped sellers showcase their products, attract new customers, and increase sales without the high costs of a physical showroom.
 
-### 🦠 HIV Data Trend Analysis Using R  
-https://github.com/OGEGARAEL/R-intern
+### 🦠 HIV Data Trend Analysis Using R   
+https://github.com/OGEGARAEL/R-intern  
 
 **Tech Stack**: Python, Pandas, Seaborn 
 
 Used R to analyze and visualize global HIV trends, focusing on countries contributing to 75% of the global burden. Filtered and grouped data by WHO region, performed data cleaning and transformation, and created insightful visualizations using ggplot2 to show HIV case trends over time. This project supports better understanding of regional disparities in HIV burden and informs targeted public health strategies.
 
-> 🗂 *More projects available on my [GitHub Repositories](https://github.com/yourusername?tab=repositories)*
+> 🗂 *More projects available on my [GitHub Repositories](https://ogegarael.github.io/portfolio.oi/)*
 
 ---
 
 ## 📜 Certifications
-
-- Career Essentials in Generative AI Certificate – Microsoft/LinkedIn https: 
-- [IBM Data Science Professional Certificate – Coursera](https://coursera.org/verify/example)
-- [SQL for Data Science – UC Davis](https://coursera.org/verify/example)
+ -Data Protection and Governance - Microsoft/ CyerShujaa KE
+ -Career Essentials in Data Analysis Certificate - Microsoft/ LinkedIn 
+ -Career Essentials in Generative AI Certificate – Microsoft/LinkedIn (https:
+ -Digital Freelancing training Certificate – Generation Kenya (https://coursera.org/verify/example)
+ - Finance Summit Certificate University of Nairobi  (https://coursera.org/verify/example)
 
 ---
 
