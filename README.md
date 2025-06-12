@@ -1,4 +1,4 @@
-# Welcome to my Portfolio
+Welcome to my Portfolio
 
 # Rael Madaraka Ogega
 
@@ -6,7 +6,7 @@
 
 ---
 
-##  WHO AM I ? 
+### WHO AM I ? 
 ## 👋 Hi, I'm Rael Madaraka Ogega — but just call me **Madaraka**! 
 📍 Based in Nairobi, Kenya
 
@@ -15,7 +15,7 @@ My journey into the world of data began with a love for capturing, organizing, a
 
 I also qualify as a Data Officer, I have taken a comprehensive training program with Microsoft in partnership with USIU, where I have explored the full scope of data protection, privacy laws, digital ethics, and governance frameworks. This course deepened my understanding of how organizations must manage data responsibly—balancing compliance with evolving regulations (like GDPR) while maintaining trust, transparency, and operational efficiency. I regularly create practical highlights and summaries to reinforce key concepts and apply them in real-world scenarios.
 
- I have expanded my expertise in Generative AI and Machine Learning through learning paths offered by Microsoft and LinkedIn Learning. This includes hands-on training in model development, prompt engineering, responsible AI, and real-life applications that leverage artificial intelligence for automation and insight generation.
+I have expanded my expertise in Generative AI and Machine Learning through learning paths offered by Microsoft and LinkedIn Learning. This includes hands-on training in model development, prompt engineering, responsible AI, and real-life applications that leverage artificial intelligence for automation and insight generation.
 
 With a solid foundation in IT and business analytics, I’m passionate about solving real-world problems by blending technical skills with strategic thinking. My mission is to not just analyze data—but to tell stories with it, protect it, and use it to drive ethical, forward-looking decisions.
 
@@ -41,8 +41,7 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 ## 📁 Projects
 
 ### Farmer-Exporter Linkage System https://github.com/OGEGARAEL/farmer_exporter_linkage_system
-
-**Tech Stack**:html, sql, javascript, php 
+--**Tech Stack**:html, sql, javascript, php 
 
 Developed and deployed an efficient farmer-exporter linkage system as part of my university research project. The system optimized organizational workflows and enhanced project management capabilities within agricultural value chains.
 This project was born out of my firsthand experience as a farmer, aimed at empowering local hass avocado farmers by streamlining access to export markets, reducing exploitation by middlemen, and ultimately improving livelihoods through a more direct, transparent, and community-driven linkage system. It also contributes to food security and country development by promoting fair trade and sustainable farming practices.
@@ -76,11 +75,11 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 ---
 
 ## 📫 Get In Touch
-Let's chat!
-Your data, my brain- together we can be unstoppable
+-Let's chat!
+--Your data, my brain- together we can be unstoppable
 
 - 📍 Kenya  (Open to relocate)
-- 💼 LinkedIn: https://www.linkedin.com/in/rael-madaraka-ogega/
+- 🔗 LinkedIn: https://www.linkedin.com/in/rael-madaraka-ogega/
 - ✉️ Email: raelmadaraka0@gmail.com
 - 🌐 Portfolio Website: https://ogegarael.github.io/portfolio.oi/
   
