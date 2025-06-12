@@ -1,4 +1,4 @@
-**Welcome to my Portfolio**  
+**Welcome to my Portfolio.**  
 
 # Rael Madaraka Ogega
 
@@ -37,7 +37,11 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 - **Tools**:Data Engineerimg Basics- ETL,Data Warehousing Concepts
 - **Data Governance and Protection**:Data Privacy(GDPR,CCPA), DLP, Risk Assessment
 
----
+### Education
+BACHELORS OF BUSINESS INFORMATION TECHNOLOGY (BBIT)
+**KABARAK UNIVERSITY (2020-2024)** 
+GPA: 3.5 (First Class Upper Division) 
+
 
 ## 📁 Projects
 
@@ -84,10 +88,10 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 **Let's chat!**
 *Your data, my brain - together we can be unstoppable*
 
-- 📍 Kenya  *(Open to relocate)*
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rael-madaraka-ogega/)
 - ✉️ [Email](raelmadaraka0@gmail.com)
 - 🌐[ Portfolio Website](https://ogegarael.github.io/portfolio.oi/)
+- 📍 Kenya  *(Open to relocate)*
   
 
 
