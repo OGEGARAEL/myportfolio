@@ -39,8 +39,10 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 
 
  ### 🎓 Education
-BACHELORS OF BUSINESS INFORMATION TECHNOLOGY (BBIT)
-**KABARAK UNIVERSITY (2020-2024)** 
+BACHELORS OF BUSINESS INFORMATION TECHNOLOGY (BBIT)  
+
+**KABARAK UNIVERSITY (2020-2024)**  
+
 GPA: 3.5 (First Class Upper Division)  
 
 
