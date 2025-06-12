@@ -1,4 +1,4 @@
-# Portfolio
+# Welcome to my Portfolio
 
 # Rael Madaraka Ogega
 
@@ -10,7 +10,15 @@
 ## 👋 Hi, I'm Rael Madaraka Ogega — but just call me **Madaraka**! 
 📍 Based in Nairobi, Kenya
 
-A naturally inquisitive data enthusiast with a passion for personal knowledge management, collecting data, and uncovering insights that could bloom into new ideas. My journey into the world of data began with an inherent love for capturing, organizing, distilling, and expressing information and finding meaningful patterns within it. This fascination drove me to master Excel, SQL, spreadsheets and, Python. I specialize in transforming complex data into actionable insights to support decision-making. I'm passionate about storytelling with data, solving business problems, and continuously learning new technologies.
+I’m a naturally inquisitive data enthusiast with a passion for personal knowledge management, data collection, and uncovering insights that spark innovation.
+My journey into the world of data began with a love for capturing, organizing, and distilling information to reveal meaningful patterns. This curiosity led me to develop strong skills in Excel, SQL, spreadsheets, and Python—empowering me to transform complex datasets into clear, actionable insights that support effective decision-making.
+
+I also qualify as a Data Officer, I have taken a comprehensive training program with Microsoft in partnership with USIU, where I have explored the full scope of data protection, privacy laws, digital ethics, and governance frameworks. This course deepened my understanding of how organizations must manage data responsibly—balancing compliance with evolving regulations (like GDPR) while maintaining trust, transparency, and operational efficiency. I regularly create practical highlights and summaries to reinforce key concepts and apply them in real-world scenarios.
+
+ I have expanded my expertise in Generative AI and Machine Learning through learning paths offered by Microsoft and LinkedIn Learning. This includes hands-on training in model development, prompt engineering, responsible AI, and real-life applications that leverage artificial intelligence for automation and insight generation.
+
+With a solid foundation in IT and business analytics, I’m passionate about solving real-world problems by blending technical skills with strategic thinking. My mission is to not just analyze data—but to tell stories with it, protect it, and use it to drive ethical, forward-looking decisions.
+
 
 When I'm not deep in tech, my life is packed with action, learning, and adventure! I hit the basketball court hard, always pushing myself to be fitter and better – it's a discipline that fuels everything I do. I absolutely love to read and learn, soaking up every book, article, and new idea I can find. This constant drive to understand helps me tackle tough problem problems. And my passion for technology is huge! I'm always upgrading my skills and diving into the newest tech. Why? To bring massive value to my team and stay super relevant in this fast-changing world.
 
