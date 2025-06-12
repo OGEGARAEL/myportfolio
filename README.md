@@ -30,15 +30,16 @@ A naturally inquisitive data enthusiast with a passion for personal knowledge ma
 
 ## 📁 Projects
 
-### 🏠 Farmer-Exporter Linkage System (https://github.com/OGEGARAEL/farmer_exporter_linkage_system)
+### Farmer-Exporter Linkage System https://github.com/OGEGARAEL/farmer_exporter_linkage_system
 **Tech Stack**:html, sql, javascript, php 
 Developed and deployed an efficient farmer-exporter linkage system as part of my university research project. The system optimized organizational workflows and enhanced project management capabilities within agricultural value chains.
 This project was born out of my firsthand experience as a farmer, aimed at empowering local hass avocado farmers by streamlining access to export markets, reducing exploitation by middlemen, and ultimately improving livelihoods through a more direct, transparent, and community-driven linkage system. It also contributes to food security and country development by promoting fair trade and sustainable farming practices.
 
 
-### 📈 [Project Title: e.g., Sales Dashboard with Power BI](https://github.com/yourusername/project-repo)
-**Tech Stack**: Power BI, DAX, Excel  
-An interactive sales dashboard for regional performance analysis. Drill-down features, KPIs, and trend analysis included.
+###  Furniture Website https://github.com/OGEGARAEL/FURNITURE-WEBSITE
+**Tech Stack**: html, css, javascript
+Developed a furniture website using web development tools such as HTML, CSS, and JavaScript to provide a digital platform for furniture sellers and entrepreneurs.
+This website solves key challenges faced by furniture businesses, including limited visibility, lack of online presence, and difficulties reaching a wider customer base. By offering an easy-to-navigate, visually appealing online storefront, the platform helped sellers showcase their products, attract new customers, and increase sales without the high costs of a physical showroom.
 
 ### 🦠 [Project Title: e.g., COVID-19 Data Analysis](https://github.com/yourusername/project-repo)
 **Tech Stack**: Python, Pandas, Seaborn  
