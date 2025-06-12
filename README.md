@@ -66,8 +66,7 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 
 ---
 
-## 📜 Certifications 
-*click to view*  
+### 📜 My Certifications 
 
  [Data Protection and Governance Certificate:](https://www.linkedin.com/learning/certificates/66287c1469ce01a423976c7e5e6bfc58b5710e8e93c795927939c5f47aa068e9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbOJj596LRZK%2BWxCCIKz9lQ%3D%3D)   *offered by Microsoft in collaboration with USIU*
  
@@ -82,8 +81,8 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 ---
 
 ## 📫 Get In Touch
--Let's chat!
---Your data, my brain- together we can be unstoppable
+*Let's chat!*
+**Your data, my brain - together we can be unstoppable**
 
 - 📍 Kenya  (Open to relocate)
 - 🔗 LinkedIn: https://www.linkedin.com/in/rael-madaraka-ogega/
@@ -94,4 +93,4 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 
 ---
 
-> *This portfolio is a living document and is continuously being updated. Stay tuned for more projects!*
+> **This portfolio is a living document and is continuously being updated. Stay tuned for more projects!**
