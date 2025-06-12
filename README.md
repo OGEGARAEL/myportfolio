@@ -11,6 +11,7 @@
 📍 Based in Nairobi, Kenya
 
 A naturally inquisitive data enthusiast with a passion for personal knowledge management, collecting data, and uncovering insights that could bloom into new ideas. My journey into the world of data began with an inherent love for capturing, organizing, distilling, and expressing information and finding meaningful patterns within it. This fascination drove me to master Excel, SQL, spreadsheets and, Python. I specialize in transforming complex data into actionable insights to support decision-making. I'm passionate about storytelling with data, solving business problems, and continuously learning new technologies.
+
 When I'm not deep in tech, my life is packed with action, learning, and adventure! I hit the basketball court hard, always pushing myself to be fitter and better – it's a discipline that fuels everything I do. I absolutely love to read and learn, soaking up every book, article, and new idea I can find. This constant drive to understand helps me tackle tough problem problems. And my passion for technology is huge! I'm always upgrading my skills and diving into the newest tech. Why? To bring massive value to my team and stay super relevant in this fast-changing world.
 
 ---
