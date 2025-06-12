@@ -84,10 +84,10 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 *Let's chat!*
 **Your data, my brain - together we can be unstoppable**
 
-- 📍 Kenya  (Open to relocate)
-- 🔗 LinkedIn: https://www.linkedin.com/in/rael-madaraka-ogega/
-- ✉️ Email: raelmadaraka0@gmail.com
-- 🌐 Portfolio Website: https://ogegarael.github.io/portfolio.oi/
+- 📍 Kenya  *(Open to relocate)*
+- 🔗 [LinkedIn:](https://www.linkedin.com/in/rael-madaraka-ogega/)
+- ✉️ [Email:](raelmadaraka0@gmail.com)
+- 🌐[ Portfolio Website:](https://ogegarael.github.io/portfolio.oi/)
   
 
 
