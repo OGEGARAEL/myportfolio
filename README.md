@@ -38,7 +38,7 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 - **Data Governance and Protection**:Data Privacy(GDPR,CCPA), DLP, Risk Assessment
 
 
-  ### Education
+ ### 🎓 Education
 BACHELORS OF BUSINESS INFORMATION TECHNOLOGY (BBIT)
 **KABARAK UNIVERSITY (2020-2024)** 
 GPA: 3.5 (First Class Upper Division)  
