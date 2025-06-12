@@ -30,9 +30,11 @@ A naturally inquisitive data enthusiast with a passion for personal knowledge ma
 
 ## 📁 Projects
 
-### 🏠 [Project Title: e.g., Real Estate Price Prediction](https://github.com/yourusername/project-repo)
-**Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib  
-A machine learning model to predict real estate prices using regression techniques. Includes data cleaning, feature engineering, model evaluation, and visualizations.
+### 🏠 Farmer-Exporter Linkage System (https://github.com/OGEGARAEL/farmer_exporter_linkage_system)
+**Tech Stack**:html, sql, javascript, php 
+Developed and deployed an efficient farmer-exporter linkage system as part of my university research project. The system optimized organizational workflows and enhanced project management capabilities within agricultural value chains.
+This project was born out of my firsthand experience as a farmer, aimed at empowering local hass avocado farmers by streamlining access to export markets, reducing exploitation by middlemen, and ultimately improving livelihoods through a more direct, transparent, and community-driven linkage system. It also contributes to food security and country development by promoting fair trade and sustainable farming practices.
+
 
 ### 📈 [Project Title: e.g., Sales Dashboard with Power BI](https://github.com/yourusername/project-repo)
 **Tech Stack**: Power BI, DAX, Excel  
