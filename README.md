@@ -67,7 +67,8 @@ Used R to analyze and visualize global HIV trends, focusing on countries contrib
 ---
 
 ## 📜 Certifications
- -Data Protection and Governance - Microsoft/ CyerShujaa KE
+
+ [Data Protection and Governance]_(https://www.linkedin.com/learning/certificates/66287c1469ce01a423976c7e5e6bfc58b5710e8e93c795927939c5f47aa068e9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbOJj596LRZK%2BWxCCIKz9lQ%3D%3D)
  -Career Essentials in Data Analysis Certificate - Microsoft/ LinkedIn 
  -Career Essentials in Generative AI Certificate – Microsoft/LinkedIn (https:
  -Digital Freelancing training Certificate – Generation Kenya (https://coursera.org/verify/example)
