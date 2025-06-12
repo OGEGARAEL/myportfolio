@@ -41,6 +41,7 @@ When I'm not deep in tech, my life is packed with action, learning, and adventur
 ## 📁 Projects
 
 ### Farmer-Exporter Linkage System https://github.com/OGEGARAEL/farmer_exporter_linkage_system
+
 **Tech Stack**:html, sql, javascript, php 
 
 Developed and deployed an efficient farmer-exporter linkage system as part of my university research project. The system optimized organizational workflows and enhanced project management capabilities within agricultural value chains.
@@ -49,6 +50,7 @@ This project was born out of my firsthand experience as a farmer, aimed at empow
 
 ###  Furniture Website 
 https://github.com/OGEGARAEL/FURNITURE-WEBSITE
+
 **Tech Stack**: html, css, javascript
 
 Developed a furniture website using web development tools such as HTML, CSS, and JavaScript to provide a digital platform for furniture sellers and entrepreneurs.
@@ -56,6 +58,7 @@ This website solves key challenges faced by furniture businesses, including limi
 
 ### 🦠 HIV Data Trend Analysis Using R  
 https://github.com/OGEGARAEL/R-intern
+
 **Tech Stack**: Python, Pandas, Seaborn 
 
 Used R to analyze and visualize global HIV trends, focusing on countries contributing to 75% of the global burden. Filtered and grouped data by WHO region, performed data cleaning and transformation, and created insightful visualizations using ggplot2 to show HIV case trends over time. This project supports better understanding of regional disparities in HIV burden and informs targeted public health strategies.
