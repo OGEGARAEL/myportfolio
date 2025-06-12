@@ -1,4 +1,5 @@
 **Welcome to my Portfolio**  
+![Alt Text](image 2 portfolio jpeg.jpeg)
 
 # Rael Madaraka Ogega
 
